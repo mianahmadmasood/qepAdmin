@@ -20,3 +20,5 @@ Route::get('/', function () {
 Route::get('/reportGen', function () {
     return view('reportGen.add');
 });
+
+Route::get('pdfview','ContactController@pdfview');

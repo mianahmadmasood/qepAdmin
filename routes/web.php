@@ -19,6 +19,6 @@ Route::get('/', function () {
 
 Route::get('/reportGen', function () {
     return view('reportGen.add');
-});
+})->name('reportGen');
 
 Route::get('pdfview','ContactController@pdfview');

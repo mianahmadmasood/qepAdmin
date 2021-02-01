@@ -17,7 +17,7 @@
 
 
             <li >
-                <a href="social-media.html">
+                <a href="{{route('reportGen')}}">
                     <i class="icofont-chart-histogram"></i>
                     <span class="link-title">Report Generator</span>
                 </a>

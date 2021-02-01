@@ -14,6 +14,10 @@
 <link rel="stylesheet" href="{{ asset('public/assets/plugins/apex/apexcharts.css') }}">
 <!-- ======= END BEGIN PAGE LEVEL PLUGINS STYLES ======= -->
 
+<!-- ======= BEGIN PAGE LEVEL PLUGINS STYLES ======= -->
+<link href="{{ asset('public/assets/plugins/jquery-smartwizard/smart_wizard_all.min.css') }}" rel="stylesheet" type="text/css" />
+<!-- ======= END BEGIN PAGE LEVEL PLUGINS STYLES ======= -->
+
 <!-- ======= MAIN STYLES ======= -->
 <link rel="stylesheet" href="{{ asset('public/assets/css/style.css') }}">
 <!-- ======= END MAIN STYLES ======= -->
